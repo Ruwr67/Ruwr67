@@ -1,10 +1,25 @@
-Hi there 👋
-I'm Joel Mejillones S.
-A beginner programmer with knowledge of Java, Python, CSS, and SQL.
+¡Hola mundo! 👋🌎
+Soy Joel Mejillones S.
+🚀 Programador en crecimiento con skills en:
+▸ Java ☕ | Python 🐍
+▸ CSS 🎨 | SQL 🗃️
 
-Currently pursuing a Systems Engineering degree at San Simón University (mid-career).
-Expanding my skills in Cybersecurity, React, Data Science, and embracing new challenges.
+📚 Actual estudiante de Ingeniería de Sistemas
+🏛️ Universidad San Simón (en progreso 📈)
 
-There are no bad ideas—just wildly creative plans waiting to be refined.
+🔥 Aprendiendo sobre:
+▸ Ciberseguridad 🔐
+▸ React ⚛️
+▸ Ciencia de Datos 📊
+▸ ¡Y cualquier reto que aparezca! 💪
 
-📫 Let's chat! Reach me at: danielmeji67@gmail.com
+📩 ¿Quieres hablar de algo interesante?
+✉️ → danielmeji67@gmail.com
+
+        /\_____/\
+       /  o   o  \
+      ( ==  ^  == )
+       )         (
+      (           )
+     ( (  )   (  ) )
+    (__(__)___(__)__)
